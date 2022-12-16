@@ -1,0 +1,4 @@
+*.zip
+venv
+archive/EfficientNetB3-butterflies-0.97.h5
+best_checkpoint.model
